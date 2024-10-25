@@ -71,10 +71,12 @@ Este proyecto utiliza las siguientes librerías de Python:
 Puedes instalar las dependencias necesarias utilizando `pip install`.
 
 ### Dashboard
-![Imagen1](https://github.com/user-attachments/assets/2dec4c70-1f5a-4e47-9ffe-f2ac254db63f)
-![Imagen2](https://github.com/user-attachments/assets/ae8fa46b-d70f-4022-878d-b203b9ecb109)
-![Imagen3](https://github.com/user-attachments/assets/a868a651-70ab-47bf-ae87-45ee17f8627f)
-![Imagen4](https://github.com/user-attachments/assets/d004e32d-192a-4996-84d8-8c7ed934d373)
+![image](https://github.com/user-attachments/assets/e055e978-4ab8-4f21-994f-431fbc735d73)
+![image](https://github.com/user-attachments/assets/4a8293bf-f008-4d6b-9339-b67c5bda39ca)
+![image](https://github.com/user-attachments/assets/ef2873da-3aec-495f-8467-8d2b65a9f89d)
+![image](https://github.com/user-attachments/assets/d97991b3-f3db-4943-b389-3715fd3a242e)
+
+
 
 
 
