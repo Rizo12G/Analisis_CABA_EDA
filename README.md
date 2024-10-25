@@ -70,6 +70,15 @@ Este proyecto utiliza las siguientes librerías de Python:
 
 Puedes instalar las dependencias necesarias utilizando `pip install`.
 
+### Dashboard
+![Imagen1](https://github.com/user-attachments/assets/2dec4c70-1f5a-4e47-9ffe-f2ac254db63f)
+![Imagen2](https://github.com/user-attachments/assets/ae8fa46b-d70f-4022-878d-b203b9ecb109)
+![Imagen3](https://github.com/user-attachments/assets/a868a651-70ab-47bf-ae87-45ee17f8627f)
+![Imagen4](https://github.com/user-attachments/assets/d004e32d-192a-4996-84d8-8c7ed934d373)
+
+
+
+
 ## Contacto
 
 Desarrollador: [Gabriel Rizo](https://github.com/Rizo12G)  
